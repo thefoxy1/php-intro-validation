@@ -7,3 +7,7 @@
 ## Subheader
 
 Git tutorial - local addition to file.
+
+## Local Development
+
+1. Open index.html in your browser
